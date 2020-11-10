@@ -66,3 +66,11 @@ code {
   outline: 3px solid rgba(19, 15, 16, 0.8);
   cursor: pointer;
 }
+.container button1 {
+  font-size: large;
+  font-style: inherit;
+  color: red;
+  margin: 2rem auto 0 auto;
+  outline: 4px solid rgba(224, 11, 11, 0.8);
+  cursor: pointer;
+}
